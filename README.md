@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on Learning Web Dev<br>👯 I’m looking to collaborate on Web dev projects<br>🌱 I’m currently learning Full stack Web Dev, Databases, Next Js, AWS SAA
+
+# HELLO:
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
 ![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
