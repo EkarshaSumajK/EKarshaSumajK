@@ -16,15 +16,18 @@
 
 
 
-# 📊 GitHub Stats:
-   
-![]((https://github-readme-stats.vercel.app/api?username=EKarshaSumajK&theme=dark&hide_border=false&include_all_commits=true&count_private=true))<br/>
-![]((https://github-readme-streak-stats.herokuapp.com/?user=EkarshaSumajK&theme=dark&hide_border=false))<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EKarshaSumajK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## :chart_with_upwards_trend: Current Stats
+</br>
+</div>
+<br />
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=EkarshaSumajK&theme=gotham&show_icons=true" alt="shamimsikder"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EkarshaSumajK&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=EkarshaSumajK&show_icons=true&theme=gotham"/>
+</p>
 
+<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=EkarshaSumajK&theme=gotham"/>
+<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
+</p>
 
 ---
