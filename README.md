@@ -1,5 +1,6 @@
-
+<div align="center">  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I%27m+EKARSHA+SUMAJ+K.;I%27m+a+student+in+India.;I%27m+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+</div>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
