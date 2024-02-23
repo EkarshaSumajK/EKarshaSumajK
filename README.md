@@ -10,6 +10,7 @@
 
 
 <div align="center">
+  
 ![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
 </div>
 
